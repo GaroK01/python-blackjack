@@ -206,5 +206,6 @@ class Game:
                 print("Dealer wins.")
             return True
 
-g = Game()
-g.play()
+# Initiate the start
+game = Game()
+game.play()
